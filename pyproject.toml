@@ -48,6 +48,4 @@ upload_to_repository = true
 branch = "develop"
 changelog_components = "semantic_release.changelog.changelog_headers,semantic_release.changelog.compare_url"
 
-[build-system]
-requires = ["poetry>=1.0.0b8"]
-build-backend = "poetry.masonry.api"
+
